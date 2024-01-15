@@ -88,7 +88,7 @@ Follow these steps to get PostPilot up and running on your local machine:
 
 1. **Clone the Repository:**
 
-git clone https://github.com/your-username/PostPilot.git
+git clone https://github.com/sy425191/PostPilot.git
 
 2. **Install Dependencies:**
 
